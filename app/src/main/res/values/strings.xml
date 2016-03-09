@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weight Check</string>
+
+    <string name="regis">ลงทะเบียนใช้งาน</string>
+    <string name="have_space">กรุณากรอกทุกช่อง คะ</string>
+    <string name="success_regis">ลงทะเบียนเรียบร้อย แล้วคะ</string>
+    <string name="user">User :</string>
+    <string name="password">Password :</string>
+
+</resources>
